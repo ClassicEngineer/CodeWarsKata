@@ -10,3 +10,4 @@ Tasks solved
 - [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/)
 - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 - [Roman Numbers Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003)
+- [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
