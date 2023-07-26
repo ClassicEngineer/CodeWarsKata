@@ -11,3 +11,4 @@ Tasks solved
 - [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 - [Roman Numbers Helper](https://www.codewars.com/kata/51b66044bce5799a7f000003)
 - [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
+- [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a)
