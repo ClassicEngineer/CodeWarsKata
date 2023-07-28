@@ -13,3 +13,4 @@ Tasks solved
 - [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
 - [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a)
 - [RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
+- [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
