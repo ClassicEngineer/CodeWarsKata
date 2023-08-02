@@ -15,3 +15,4 @@ Tasks solved
 - [RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
 - [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
+- [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
