@@ -17,3 +17,4 @@ Tasks solved
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 - [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 - [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+- [Range](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
